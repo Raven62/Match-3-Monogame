@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/001/Desktop/Проекты C#/Match-3/Content/MyFont.spritefont</SourceFile>
+  <SourceTime>2021-08-26T16:24:41.1580017+10:00</SourceTime>
+  <DestFile>C:/Users/001/Desktop/Проекты C#/Match-3/Content/bin/DesktopGL/MyFontBoard.xnb</DestFile>
+  <DestTime>2021-08-26T17:30:38.7434976+10:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2020-08-11T02:17:54+10:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2020-08-11T02:17:54+10:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

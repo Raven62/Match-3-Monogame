@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/001/Desktop/Проекты C#/Match-3/Content/BlueCristal.png</File>
+    <File>C:/Users/001/Desktop/Проекты C#/Match-3/Content/BoardText.spritefont</File>
+    <File>C:/Users/001/Desktop/Проекты C#/Match-3/Content/ButtonOk.png</File>
+    <File>C:/Users/001/Desktop/Проекты C#/Match-3/Content/ButtonPlay.png</File>
+    <File>C:/Users/001/Desktop/Проекты C#/Match-3/Content/Cell.png</File>
+    <File>C:/Users/001/Desktop/Проекты C#/Match-3/Content/GameOverText.spritefont</File>
+    <File>C:/Users/001/Desktop/Проекты C#/Match-3/Content/GreenCristal.png</File>
+    <File>C:/Users/001/Desktop/Проекты C#/Match-3/Content/PurpleCristal.png</File>
+    <File>C:/Users/001/Desktop/Проекты C#/Match-3/Content/RedCristal.png</File>
+    <File>C:/Users/001/Desktop/Проекты C#/Match-3/Content/YellowCristal.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>BlueCristal</File>
+    <File xsi:nil="true" />
+    <File>ButtonOk</File>
+    <File>ButtonPlay</File>
+    <File>Cell</File>
+    <File xsi:nil="true" />
+    <File>GreenCristal</File>
+    <File>PurpleCristal</File>
+    <File>RedCristal</File>
+    <File>YellowCristal</File>
+  </DestFiles>
+</SourceFileCollection>
